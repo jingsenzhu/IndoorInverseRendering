@@ -6,7 +6,8 @@
 
 - [ ] Code release for Material-Geometry network
 - [ ] Code release for Lighting network
-- [ ] Dataset release for InteriorVerse
+- [ ] Release of pretrained model
+- [ ] Dataset release: InteriorVerse
 
 # Learning-based Inverse Rendering of Complex Indoor Scenes with Differentiable Monte Carlo Raytracing
 
