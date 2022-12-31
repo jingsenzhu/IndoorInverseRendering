@@ -1,0 +1,11 @@
+numpy
+opencv-python
+torch
+torchvision
+pytorch_lightning
+pyyaml
+rich
+tqdm
+tensorboard
+tensorboardX
+matplotlib
