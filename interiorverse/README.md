@@ -5,11 +5,11 @@
 
 # InteriorVerse: Large-scale Photorealistic Indoor Scene Dataset
 
-### [Project Page](#) | [Paper](https://arxiv.org/abs/2211.03017)
+### [Project Page (Download)](#) | [Paper](https://arxiv.org/abs/2211.03017)
 
 ![](assets/teaser.gif)
 
-InteriorVerse is a large-scale photorealistic indoor scene dataset proposed by paper [Learning-based Inverse Rendering of Complex Indoor Scenes with Differentiable Monte Carlo Raytracing](https://jingsenzhu.github.io/invrend) in SIGGRAPH Asia'22 conference proceedings. It contains synthetic rendering results of over 4000 indoor scenes with ground truth material, geometry and spatially-varying lightings.
+InteriorVerse is a large-scale photorealistic indoor scene dataset proposed by paper [Learning-based Inverse Rendering of Complex Indoor Scenes with Differentiable Monte Carlo Raytracing](https://jingsenzhu.github.io/invrend) in SIGGRAPH Asia'22 conference proceedings. It contains synthetic rendering results of over 4000 indoor scenes with ground truth material, geometry and spatially-varying lightings. **You can find the download link in our [project page](#).**
 
 ## Material-Geometry Dataset
 
