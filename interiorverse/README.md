@@ -19,9 +19,9 @@ The dataset folder is organized as in the following structure:
 
 ```
 ./
-	dataset_85/
-		scene_name_000/
-			000_im.exr
+    dataset_85/
+        scene_name_000/
+            000_im.exr
             000_mask.exr
             000_albedo.exr
             000_depth.exr
@@ -36,8 +36,8 @@ The dataset folder is organized as in the following structure:
         val.txt
         test.txt
     dataset_120/
-    	... 
-    	(The same as dataset_85)
+        ... 
+        (The same as dataset_85)
 ```
 
 We provide 2 datasets of different camera intrinsics, which differs in camera horizontal field-of-view angle (85° and 120° respectively), in `dataset_85` and `dataset_120` folder respectively. The camera positions and poses of the same image in 2 datasets are exactly the same. Each folder can be used as an independent dataset, or of course you can combine them together.
