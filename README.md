@@ -2,13 +2,15 @@
 
 - `04/12/2022` repository created
 - `31/12/2022` code release for material-geometry network
+- `16/01/2023` dataset release: InteriorVerse material-geometry part
 
 **TODO**
 
 - [x] Code release for Material-Geometry network
 - [ ] Code release for Lighting network
 - [ ] Release of pretrained model
-- [ ] Dataset release: InteriorVerse
+- [x] Dataset release: InteriorVerse material-geometry part
+- [ ] Dataset release: InteriorVerse lighting part
 
 # Learning-based Inverse Rendering of Complex Indoor Scenes with Differentiable Monte Carlo Raytracing
 
