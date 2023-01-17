@@ -2,7 +2,7 @@
 
 - `04/12/2022` repository created
 - `31/12/2022` code release for material-geometry network
-- `16/01/2023` dataset release: InteriorVerse material-geometry part
+- `17/01/2023` dataset release: InteriorVerse material-geometry part
 
 **TODO**
 
