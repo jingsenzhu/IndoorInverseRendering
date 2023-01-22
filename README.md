@@ -14,7 +14,7 @@
 
 # Learning-based Inverse Rendering of Complex Indoor Scenes with Differentiable Monte Carlo Raytracing
 
-### [Project Page](https://jingsenzhu.github.io/invrend/) | [Paper](https://arxiv.org/abs/2211.03017) | [Dataset (Soon)](#)
+### [Project Page](https://jingsenzhu.github.io/invrend/) | [Paper](https://arxiv.org/abs/2211.03017) | [Dataset](https://interiorverse.github.io/)
 
 ![teaser](assets/teaser.png)
 
