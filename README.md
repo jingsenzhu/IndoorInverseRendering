@@ -3,11 +3,12 @@
 - `04/12/2022` repository created
 - `31/12/2022` code release for material-geometry network
 - `17/01/2023` dataset release: InteriorVerse material-geometry part
+- `24/02/2023` code release for lighting network
 
 **TODO**
 
 - [x] Code release for Material-Geometry network
-- [ ] Code release for Lighting network
+- [x] Code release for Lighting network
 - [ ] Release of pretrained model
 - [x] Dataset release: InteriorVerse material-geometry part
 - [ ] Dataset release: InteriorVerse lighting part

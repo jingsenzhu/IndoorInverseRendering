@@ -1,3 +1,5 @@
 # Lighting Network
 
-Coming soon!
+Code released
+
+TBD: instructions for testing
