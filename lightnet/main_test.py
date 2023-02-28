@@ -67,7 +67,6 @@ def main_test(cfg):
             mask = os.path.join(cfg.dataset.path, f"{imName}_mask.exr")
             depth = os.path.join(cfg.dataset.path, f"{imName}_depth.exr")
             depth = cv2.imread(depth, -1)
-            # assert(len(depth.shape) == 2)
             if len(depth.shape) == 3:
                 depth = depth[:,:,-1]
             depth = torch.from_numpy(cv2.resize(depth, (col, row), interpolation=cv2.INTER_AREA))

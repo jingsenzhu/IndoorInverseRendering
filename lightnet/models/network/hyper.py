@@ -167,7 +167,7 @@ class HyperModel(nn.Module):
         return self.decoder(pos_enc, weights, biases, index)
 
 class GlobalNet(nn.Module):
-    def __init__(self, n_samples=64, eval_batch_size=100000, num_encoding_functions = 6) -> None:
+    def __init__(self, n_samples=64, eval_batch_size=1000000, num_encoding_functions = 6) -> None:
         super().__init__()
         self.model = HyperModel(num_encoding_functions)
         self.n_samples = n_samples

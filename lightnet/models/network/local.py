@@ -11,7 +11,6 @@ class LocalEncoder(nn.Module):
         pretrained=True,
         num_layers=4,
         latent_size=None,
-        # shape=(80,60),
         index_interp="bilinear",
         index_padding="border",
         upsample_interp="bilinear",

@@ -9,7 +9,7 @@
 
 - [x] Code release for Material-Geometry network
 - [x] Code release for Lighting network
-- [ ] Release of pretrained model
+- [x] Release of pretrained model
 - [x] Dataset release: InteriorVerse material-geometry part
 - [ ] Dataset release: InteriorVerse lighting part
 
@@ -18,6 +18,12 @@
 ### [Project Page](https://jingsenzhu.github.io/invrend/) | [Paper](https://arxiv.org/abs/2211.03017) | [Dataset](https://interiorverse.github.io/)
 
 ![teaser](assets/teaser.png)
+
+This repository implements the paper "Learning-Based Inverse Rendering of Complex Indoor Scenes with Differentiable Monte Carlo Raytracing" in SIGGRAPH Asia'22. It includes training and testing code of material-geometry network (MGNet) and testing code of lighting network (LightNet).
+
+## Pretrained Models
+
+Pretrained models are available [here](https://1drv.ms/u/s!As0jHj7lvvu5gQTjaGZu80GDAF0j?e=3KEB65), including MGNet and LightNet.
 
 ## Citation
 
