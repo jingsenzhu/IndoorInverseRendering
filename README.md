@@ -21,6 +21,8 @@
 
 This repository implements the paper "Learning-Based Inverse Rendering of Complex Indoor Scenes with Differentiable Monte Carlo Raytracing" in SIGGRAPH Asia'22. It includes training and testing code of material-geometry network (MGNet) and testing code of lighting network (LightNet).
 
+**Also check our following work: [I<sup>2</sup>-SDF](https://github.com/jingsenzhu/i2-sdf) !**
+
 ## Pretrained Models
 
 Pretrained models are available [here](https://1drv.ms/u/s!As0jHj7lvvu5gQTjaGZu80GDAF0j?e=3KEB65), including MGNet and LightNet.
