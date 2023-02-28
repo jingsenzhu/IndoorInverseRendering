@@ -4,6 +4,7 @@
 - `31/12/2022` code release for material-geometry network
 - `17/01/2023` dataset release: InteriorVerse material-geometry part
 - `24/02/2023` code release for lighting network
+- `28/02/2023` pretrained model and testing data (object insertion) released
 
 **TODO**
 
