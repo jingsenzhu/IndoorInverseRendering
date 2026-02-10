@@ -1,3 +1,7 @@
+**2026/2 Dataset download link issue**
+
+We have noticed the issue that the original download link for the InteriorVerse dataset becomes invalid. We're currently looking for a new cloud service to store the dataset and will update with a new download link once we find the solution. Sorry for any inconvenience!
+
 **News**
 
 - `04/12/2022` repository created
