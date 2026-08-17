@@ -1,8 +1,12 @@
+**InteriorVerse dataset -- Update 2026/08**
+
+We thank Lezhong Wang for sharing the complete copy of the dataset files, which can be accessed via this [Hugging Face](https://huggingface.co/datasets/Lez/InteriorVerse) repo.
+
 **InteriorVerse dataset -- Update 2026/04**
 
 We regret to inform users that the original dataset download link is no longer valid due to unexpected file loss on the cloud service. We sincerely apologize for the inconvenience this has caused.
 
-We have made every effort to recover the dataset. While we were only able to restore part of the original data, the recovered subset has now been uploaded to a new server. The updated download links are available [here](interiorverse/Interiorverse_dataset.csv).
+We have made every effort to recover the dataset. While we were only able to restore part of the original data, the recovered subset has now been uploaded to a new server. The updated download links are available [here](interiorverse/Interiorverse_dataset.csv). **Note that the original way to access the data by sending an email is no longer valid.**
 
 Please note the following details about the recovered dataset:
 
@@ -11,7 +15,7 @@ Please note the following details about the recovered dataset:
 
 As a result of the missing data, the original train/validation/test splits are no longer valid.
 
-**If you previously downloaded the complete dataset and still have a copy, we would greatly appreciate it if you could contact [Jingsen Zhu](mailto:zhujingsen.p32@gmail.com) to help with potential recovery.**
+<!-- **If you previously downloaded the complete dataset and still have a copy, we would greatly appreciate it if you could contact [Jingsen Zhu](mailto:zhujingsen.p32@gmail.com) to help with potential recovery.** -->
 
 Thank you for your understanding and continued interest in our work.
 
@@ -33,7 +37,7 @@ Thank you for your understanding and continued interest in our work.
 
 # Learning-based Inverse Rendering of Complex Indoor Scenes with Differentiable Monte Carlo Raytracing
 
-### [Project Page](https://jingsenzhu.github.io/invrend/) | [Paper](https://arxiv.org/abs/2211.03017) | [Dataset](https://interiorverse.github.io/)
+### [Project Page](https://jingsenzhu.github.io/invrend/) | [Paper](https://arxiv.org/abs/2211.03017) | [Dataset](interiorverse/Interiorverse_dataset.csv) | [Hugging Face](https://huggingface.co/datasets/Lez/InteriorVerse)
 
 ![teaser](assets/teaser.png)
 
